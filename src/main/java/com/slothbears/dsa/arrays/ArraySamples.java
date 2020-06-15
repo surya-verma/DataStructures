@@ -1,4 +1,4 @@
-package com.slothbears.java.arrays;
+package com.slothbears.dsa.arrays;
 
 public class ArraySamples {
 

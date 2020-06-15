@@ -1,4 +1,4 @@
-package com.slothbears.java.arrays;
+package com.slothbears.dsa.arrays;
 
 //Java program to illustrate creating an array of 
 //objects 
